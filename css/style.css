@@ -1,0 +1,135 @@
+body {
+  text-align: center;
+  font-family: 'Open Sans', sans-serif;
+  background-color: #83110C;
+  color: #ffffff;
+  margin: 0 0 30px 0;
+  line-height: 1, 5;
+}
+
+h1 {
+  font-size: 60px;
+  font-family: 'Times New Roman', serif;
+  font-weight: 300;
+}
+
+.principal {
+  max-height: 40px;
+  max-width: 60%;
+  margin: 0 auto;
+}
+
+.principal ul {
+  background-color: #dacb0f;
+  padding: 10px;
+}
+
+.principal ul li a {
+  color: #ffffff;
+  font-weight: 300;
+  text-decoration: underline;
+}
+
+.principal li {
+  display: inline-block;
+  line-height: 2, 5;
+  margin: 0 35px;
+}
+
+section {
+  width: 60%;
+  font-weight: 300;
+  margin: 0 auto;
+}
+
+section section {
+  width: 100%;
+}
+
+h2 {
+  color: #fff0c9;
+  font-size: 40px;
+}
+
+.titulo-biografia {
+  color: #fdf59c;
+}
+
+.titulo-berlim {
+  color: #fdf063;
+}
+
+.titulo-prisao {
+  color: #fdee2f;
+}
+
+.titulo-moscou {
+  color: #fded00;
+}
+
+.titulo-prestes {
+  color: #dacb0f;
+}
+
+.titulo-morte {
+  color: #c1b317;
+}
+
+#fonte{
+  font-size: 12px;
+}
+
+.titulo-filme {
+  color: #998e16;
+}
+
+.titulo-conheca {
+  font-style: italic;
+  text-decoration: underline;
+  color: #fff0c9;
+}
+
+h3 {
+  font-size: 22px;
+  font-style: italic;
+}
+
+p {
+  line-height: 1.5;
+  font-size: 20px;
+}
+
+img {
+  width: 100%;
+}
+
+.conheça ul li {
+  list-style-type: none;
+  line-height: 2;
+  padding-left: 0;
+}
+
+a {
+  text-decoration: solid;
+  color: #fdf063;
+  font-weight: 700;
+}
+
+a:visited {
+  color: #ffb96a;
+}
+
+a:hover {
+  color: #c1b317;
+}
+
+a:active {
+  color: #000;
+}
+
+button {
+  background-color: #fdee2f;
+  border: 1px solid transparent;
+  padding: 2px 20px;
+  border-radius: 3px;
+}

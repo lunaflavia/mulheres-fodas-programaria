@@ -3,6 +3,7 @@
 Esse projeto é um tributo à mulheres incríveis que marcaram a história. Ele foi construído durante o curso Eu Progra{amo} de Front-End, da PrograMaria. ‍
 
 **O que é esse projeto?**
+
 É um site informativo sobre a vida e a luta de Olga Benário, uma revolucionária alemã que se tornou um ícone da resistência. Além dela, você encontra links para conhecer outras mulheres que fizeram a diferença no mundo.
 
 **Funcionalidades**
@@ -17,6 +18,6 @@ Formulário de contato: Quer saber mais sobre outras mulheres inspiradoras? Deix
 * **JavaScript:** Adicionando interatividade e validando o formulário.
 
 **Além do curso**
-* **O que o curso pediu:** Criar um <input type="number"> no HTML para o campo "telefone", o que deixou o campo com as setas elemento nativo do navegador projetados para aumentar e diminuir o valor.
+* **O que o curso pediu:** Criar um `<input type="number">` no HTML para o campo "telefone", o que deixou o campo com as setas elemento nativo do navegador projetados para aumentar e diminuir o valor.
 * **Problema:** Remover as setas do campo.
-* **Solução** Com auxílio do Gemini, cheguei a conclusão que seria melhor usar o <input type="text"> e, no JavaScript, manipular o valor do campo para aceitar apenas caracteres numéricos.
+* **Solução** Com auxílio do Gemini, cheguei a conclusão que seria melhor usar o `<input type="text">` e, no JavaScript, manipular o valor do campo para aceitar apenas caracteres numéricos.
